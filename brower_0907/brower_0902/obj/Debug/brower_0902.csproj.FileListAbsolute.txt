@@ -1,0 +1,42 @@
+C:\Users\Administrator\Desktop\浏览器项目\brower_0902\brower_0902\bin\Debug\brower_0902.exe.config
+C:\Users\Administrator\Desktop\浏览器项目\brower_0902\brower_0902\bin\Debug\brower_0902.exe
+C:\Users\Administrator\Desktop\浏览器项目\brower_0902\brower_0902\bin\Debug\brower_0902.pdb
+C:\Users\Administrator\Desktop\浏览器项目\brower_0902\brower_0902\obj\Debug\brower_0902.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\浏览器项目\brower_0902\brower_0902\obj\Debug\brower_0902.Properties.Resources.resources
+C:\Users\Administrator\Desktop\浏览器项目\brower_0902\brower_0902\obj\Debug\brower_0902.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\浏览器项目\brower_0902\brower_0902\obj\Debug\brower_0902.exe
+C:\Users\Administrator\Desktop\浏览器项目\brower_0902\brower_0902\obj\Debug\brower_0902.pdb
+C:\Users\Administrator\Desktop\浏览器项目\brower_0902\brower_0902\obj\Debug\brower_0902.UserControl1.resources
+C:\Users\Administrator\Desktop\浏览器项目\brower_0902\brower_0902\obj\Debug\brower_0902.BrowerForm.resources
+C:\Users\Administrator\Desktop\浏览器项目\20150907\brower_0902\brower_0902\bin\Debug\brower_0902.exe.config
+C:\Users\Administrator\Desktop\浏览器项目\20150907\brower_0902\brower_0902\bin\Debug\brower_0902.exe
+C:\Users\Administrator\Desktop\浏览器项目\20150907\brower_0902\brower_0902\bin\Debug\brower_0902.pdb
+C:\Users\Administrator\Desktop\浏览器项目\20150907\brower_0902\brower_0902\bin\Debug\cwber.dll
+C:\Users\Administrator\Desktop\浏览器项目\20150907\brower_0902\brower_0902\bin\Debug\Cef3.dll
+C:\Users\Administrator\Desktop\浏览器项目\20150907\brower_0902\brower_0902\bin\Debug\cwber.pdb
+C:\Users\Administrator\Desktop\浏览器项目\20150907\brower_0902\brower_0902\bin\Debug\Cef3.pdb
+C:\Users\Administrator\Desktop\浏览器项目\20150907\brower_0902\brower_0902\bin\Debug\Cef3.xml
+C:\Users\Administrator\Desktop\浏览器项目\20150907\brower_0902\brower_0902\obj\Debug\brower_0902.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\浏览器项目\20150907\brower_0902\brower_0902\obj\Debug\brower_0902.BrowerForm.resources
+C:\Users\Administrator\Desktop\浏览器项目\20150907\brower_0902\brower_0902\obj\Debug\brower_0902.Properties.Resources.resources
+C:\Users\Administrator\Desktop\浏览器项目\20150907\brower_0902\brower_0902\obj\Debug\brower_0902.UserControl1.resources
+C:\Users\Administrator\Desktop\浏览器项目\20150907\brower_0902\brower_0902\obj\Debug\brower_0902.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\浏览器项目\20150907\brower_0902\brower_0902\obj\Debug\brower_0902.exe
+C:\Users\Administrator\Desktop\浏览器项目\20150907\brower_0902\brower_0902\obj\Debug\brower_0902.pdb
+C:\Users\Administrator\Desktop\浏览器项目\20150907\brower_0902\brower_0902\output\Debug\brower_0902.exe.config
+C:\Users\Administrator\Desktop\浏览器项目\20150907\brower_0902\brower_0902\output\Debug\brower_0902.exe
+C:\Users\Administrator\Desktop\浏览器项目\20150907\brower_0902\brower_0902\output\Debug\brower_0902.pdb
+C:\Users\Administrator\Desktop\浏览器项目\20150907\brower_0902\brower_0902\output\Debug\Cef3.dll
+C:\Users\Administrator\Desktop\浏览器项目\20150907\brower_0902\brower_0902\output\Debug\cwber.pdb
+C:\Users\Administrator\Desktop\浏览器项目\20150907\brower_0902\brower_0902\output\Debug\Cef3.pdb
+C:\Users\Administrator\Desktop\浏览器项目\20150907\brower_0902\brower_0902\output\Debug\Cef3.xml
+C:\Users\luke\Documents\Tencent Files\898492994\FileRecv\brower_0907\brower_0902\output\Debug\brower_0902.exe.config
+C:\Users\luke\Documents\Tencent Files\898492994\FileRecv\brower_0907\brower_0902\obj\Debug\brower_0902.exe
+C:\Users\luke\Documents\Tencent Files\898492994\FileRecv\brower_0907\brower_0902\obj\Debug\brower_0902.pdb
+C:\Users\luke\Documents\Tencent Files\898492994\FileRecv\brower_0907\brower_0902\obj\Debug\brower_0902.csprojResolveAssemblyReference.cache
+C:\Users\luke\Documents\Tencent Files\898492994\FileRecv\brower_0907\brower_0902\obj\Debug\brower_0902.BrowerForm.resources
+C:\Users\luke\Documents\Tencent Files\898492994\FileRecv\brower_0907\brower_0902\obj\Debug\brower_0902.Properties.Resources.resources
+C:\Users\luke\Documents\Tencent Files\898492994\FileRecv\brower_0907\brower_0902\obj\Debug\brower_0902.UserControl1.resources
+C:\Users\luke\Documents\Tencent Files\898492994\FileRecv\brower_0907\brower_0902\obj\Debug\brower_0902.csproj.GenerateResource.Cache
+C:\Users\luke\Documents\Tencent Files\898492994\FileRecv\brower_0907\brower_0902\output\Debug\brower_0902.exe
+C:\Users\luke\Documents\Tencent Files\898492994\FileRecv\brower_0907\brower_0902\output\Debug\brower_0902.pdb

@@ -1,0 +1,20 @@
+<html>
+<head>
+<script language = "JavaScript">
+function Call()
+{
+
+window.CallCSharpMethod("Call","msg form js");
+}
+function CallBack(msg)
+{
+alert("im js");
+var s = new String(msg);
+alert(s);
+}
+</script>
+</head>
+<body>
+<input type = "button" value = "Call" onclick = "Call()"/>
+</body>
+</html>

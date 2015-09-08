@@ -1,0 +1,58 @@
+E:\luoyi\Projects\dotnet\cwber\output\cwber.dll
+E:\luoyi\Projects\dotnet\cwber\output\cwber.pdb
+E:\luoyi\Projects\dotnet\cwber\cwber\obj\Debug\cwber.csprojResolveAssemblyReference.cache
+E:\luoyi\Projects\dotnet\cwber\cwber\obj\Debug\Sashulin.ChromeWebBrowser.resources
+E:\luoyi\Projects\dotnet\cwber\cwber\obj\Debug\cwber.csproj.GenerateResource.Cache
+E:\luoyi\Projects\dotnet\cwber\cwber\obj\Debug\cwber.dll
+E:\luoyi\Projects\dotnet\cwber\cwber\obj\Debug\cwber.pdb
+E:\Download\ChromeWebBrowser.net-realse-1.1.0.0\source\cwber\output\cwber.dll
+E:\Download\ChromeWebBrowser.net-realse-1.1.0.0\source\cwber\output\cwber.pdb
+E:\Download\ChromeWebBrowser.net-realse-1.1.0.0\source\cwber\cwber\obj\Debug\cwber.csprojResolveAssemblyReference.cache
+E:\Download\ChromeWebBrowser.net-realse-1.1.0.0\source\cwber\cwber\obj\Debug\Sashulin.ChromeWebBrowser.resources
+E:\Download\ChromeWebBrowser.net-realse-1.1.0.0\source\cwber\cwber\obj\Debug\cwber.csproj.GenerateResource.Cache
+E:\Download\ChromeWebBrowser.net-realse-1.1.0.0\source\cwber\cwber\obj\Debug\cwber.dll
+E:\Download\ChromeWebBrowser.net-realse-1.1.0.0\source\cwber\cwber\obj\Debug\cwber.pdb
+F:\Browser\brower_0902\brower_0902\output\cwber.dll
+F:\Browser\brower_0902\brower_0902\output\cwber.pdb
+F:\Browser\brower_0902\brower_0902\cwber\obj\Debug\cwber.csprojResolveAssemblyReference.cache
+F:\Browser\brower_0902\brower_0902\cwber\obj\Debug\Sashulin.ChromeWebBrowser.resources
+F:\Browser\brower_0902\brower_0902\cwber\obj\Debug\cwber.csproj.GenerateResource.Cache
+F:\Browser\brower_0902\brower_0902\cwber\obj\Debug\cwber.dll
+F:\Browser\brower_0902\brower_0902\cwber\obj\Debug\cwber.pdb
+G:\Browser\brower_0902\brower_0902\output\cwber.dll
+G:\Browser\brower_0902\brower_0902\output\cwber.pdb
+G:\Browser\brower_0902\brower_0902\cwber\obj\Debug\cwber.csprojResolveAssemblyReference.cache
+G:\Browser\brower_0902\brower_0902\cwber\obj\Debug\cwber.csproj.GenerateResource.Cache
+G:\Browser\brower_0902\brower_0902\cwber\obj\Debug\cwber.dll
+G:\Browser\brower_0902\brower_0902\cwber\obj\Debug\cwber.pdb
+G:\Browser\brower_0902\brower_0902\output\Debug\cwber.dll
+G:\Browser\brower_0902\brower_0902\output\Debug\cwber.pdb
+G:\Browser\brower_0902\brower_0902\cwber\obj\Debug\HyData.ChromeWebBrowser.resources
+C:\Users\Administrator\Desktop\浏览器项目\Brower_0906\brower_0902\brower_0902\output\Debug\cwber.dll
+C:\Users\Administrator\Desktop\浏览器项目\Brower_0906\brower_0902\brower_0902\output\Debug\cwber.pdb
+C:\Users\Administrator\Desktop\浏览器项目\Brower_0906\brower_0902\brower_0902\cwber\obj\Debug\cwber.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\浏览器项目\Brower_0906\brower_0902\brower_0902\cwber\obj\Debug\HyData.ChromeWebBrowser.resources
+C:\Users\Administrator\Desktop\浏览器项目\Brower_0906\brower_0902\brower_0902\cwber\obj\Debug\cwber.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\浏览器项目\Brower_0906\brower_0902\brower_0902\cwber\obj\Debug\cwber.dll
+C:\Users\Administrator\Desktop\浏览器项目\Brower_0906\brower_0902\brower_0902\cwber\obj\Debug\cwber.pdb
+C:\Users\Administrator\Desktop\浏览器项目\20150907\Brower_0906\brower_0902\brower_0902\output\Debug\cwber.dll
+C:\Users\Administrator\Desktop\浏览器项目\20150907\Brower_0906\brower_0902\brower_0902\output\Debug\cwber.pdb
+C:\Users\Administrator\Desktop\浏览器项目\20150907\Brower_0906\brower_0902\brower_0902\cwber\obj\Debug\cwber.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\浏览器项目\20150907\Brower_0906\brower_0902\brower_0902\cwber\obj\Debug\HyData.ChromeWebBrowser.resources
+C:\Users\Administrator\Desktop\浏览器项目\20150907\Brower_0906\brower_0902\brower_0902\cwber\obj\Debug\cwber.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\浏览器项目\20150907\Brower_0906\brower_0902\brower_0902\cwber\obj\Debug\cwber.dll
+C:\Users\Administrator\Desktop\浏览器项目\20150907\Brower_0906\brower_0902\brower_0902\cwber\obj\Debug\cwber.pdb
+C:\Users\Administrator\Desktop\浏览器项目\20150907\brower_0902\brower_0902\output\Debug\cwber.dll
+C:\Users\Administrator\Desktop\浏览器项目\20150907\brower_0902\brower_0902\output\Debug\cwber.pdb
+C:\Users\Administrator\Desktop\浏览器项目\20150907\brower_0902\brower_0902\cwber\obj\Debug\cwber.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\浏览器项目\20150907\brower_0902\brower_0902\cwber\obj\Debug\HyData.ChromeWebBrowser.resources
+C:\Users\Administrator\Desktop\浏览器项目\20150907\brower_0902\brower_0902\cwber\obj\Debug\cwber.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\浏览器项目\20150907\brower_0902\brower_0902\cwber\obj\Debug\cwber.dll
+C:\Users\Administrator\Desktop\浏览器项目\20150907\brower_0902\brower_0902\cwber\obj\Debug\cwber.pdb
+C:\Users\luke\Documents\Tencent Files\898492994\FileRecv\brower_0907\brower_0902\output\Debug\cwber.dll
+C:\Users\luke\Documents\Tencent Files\898492994\FileRecv\brower_0907\brower_0902\output\Debug\cwber.pdb
+C:\Users\luke\Documents\Tencent Files\898492994\FileRecv\brower_0907\brower_0902\cwber\obj\Debug\cwber.csprojResolveAssemblyReference.cache
+C:\Users\luke\Documents\Tencent Files\898492994\FileRecv\brower_0907\brower_0902\cwber\obj\Debug\HyData.ChromeWebBrowser.resources
+C:\Users\luke\Documents\Tencent Files\898492994\FileRecv\brower_0907\brower_0902\cwber\obj\Debug\cwber.csproj.GenerateResource.Cache
+C:\Users\luke\Documents\Tencent Files\898492994\FileRecv\brower_0907\brower_0902\cwber\obj\Debug\cwber.dll
+C:\Users\luke\Documents\Tencent Files\898492994\FileRecv\brower_0907\brower_0902\cwber\obj\Debug\cwber.pdb
