@@ -146,7 +146,7 @@ namespace brower_0902
             //}
         }
 
-        ////禁用窗体的关闭按钮
+
         //private const int CP_NOCLOSE_BUTTON = 0x200;
         //protected override CreateParams CreateParams
         //{
